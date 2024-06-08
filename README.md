@@ -1,4 +1,4 @@
-  ## ![1_1-WZEWzTwBIn8iurrldI0g](https://github.com/ayeshabin-nikhath/ayeshabin-nikhath/assets/169986364/ced9ed54-cdf2-423b-b23b-1307cfacad0b)
+  #![1_1-WZEWzTwBIn8iurrldI0g](https://github.com/ayeshabin-nikhath/ayeshabin-nikhath/assets/169986364/ced9ed54-cdf2-423b-b23b-1307cfacad0b)
 
 <h1 align="center">Hi 👋, I'm Ayesha Nikhath</h1>
 <h3 align="center">A passionate Data and Business Analyst neophyte!</h3>
@@ -22,6 +22,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshabin-nikhath&show_icons=true&locale=en&layout=compact" alt="ayeshabin-nikhath" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayeshabin-nikhath&show_icons=true&locale=en" alt="ayeshabin-nikhath" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayeshabin-nikhath&show_icons=true&locale=en" alt="ayeshabin-nikhath" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshabin-nikhath&" alt="ayeshabin-nikhath" /></p>
